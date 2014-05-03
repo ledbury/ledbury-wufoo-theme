@@ -15,7 +15,7 @@ html, body {
 }
 
 #logo a {
-  background: url(logo@2x.png) center center no-repeat;
+  background: url(https://raw.githubusercontent.com/ledbury/ledbury-wufoo-theme/master/logo@2x.png) center center no-repeat;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 210px 29px;
@@ -44,7 +44,7 @@ input.text, input.search, input.file, textarea.textarea, select.select, form li.
 }
 
 select.select {
-  background: url(select-arrow.png) 95% center no-repeat;
+  background: url(https://raw.githubusercontent.com/ledbury/ledbury-wufoo-theme/master/select-arrow.png) 95% center no-repeat;
   background-size: 10px;
 }
 
