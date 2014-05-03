@@ -1,0 +1,80 @@
+html, body {
+  background: white;
+}
+
+#container {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  border: none;
+}
+
+#logo {
+  background: transparent;
+}
+
+#logo a {
+  background: url(logo@2x.png) center center no-repeat;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 210px 29px;
+}
+
+form.wufoo {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+form li.focused {
+  background-color: #f5f5f5;
+}
+
+form .instruct {
+  border: none;
+}
+
+input.text, input.search, input.file, textarea.textarea, select.select, form li.buttons input {
+  box-sizing: border-box;
+  padding: 4px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  background: white;
+  border: 1px solid black;
+  border-radius: 0;
+  -webkit-appearance: none;
+}
+
+select.select {
+  background: url(select-arrow.png) 95% center no-repeat;
+  background-size: 10px;
+}
+
+form li.buttons input {
+  padding: 6px 12px;
+  text-transform: uppercase;
+}
+
+input.text, input.search, textarea.textarea {
+}
+
+label.desc, legend.desc {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.info h2 {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+form li.section h3 {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+form li.section div {
+  font-style: italic;
+}
+
+.info {
+  border-bottom-style: solid;
+}
