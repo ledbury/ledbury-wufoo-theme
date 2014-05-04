@@ -15,14 +15,10 @@ html, body {
 }
 
 #logo a {
-  background: url(https://raw.githubusercontent.com/ledbury/ledbury-wufoo-theme/master/logo@2x.png) center center no-repeat;
+  background: url(https://www.ledbury.com/ledbury-wufoo-theme/logo@2x.png) center center no-repeat;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 210px 29px;
-}
-
-form.wufoo {
-  font-family: "Helvetica", "Arial", sans-serif;
 }
 
 form li.focused {
@@ -36,7 +32,7 @@ form .instruct {
 input.text, input.search, input.file, textarea.textarea, select.select, form li.buttons input {
   box-sizing: border-box;
   padding: 4px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: inherit;
   background: white;
   border: 1px solid black;
   border-radius: 0;
@@ -44,7 +40,7 @@ input.text, input.search, input.file, textarea.textarea, select.select, form li.
 }
 
 select.select {
-  background: url(https://raw.githubusercontent.com/ledbury/ledbury-wufoo-theme/master/select-arrow.png) 95% center no-repeat;
+  background: url(https://www.ledbury.com/ledbury-wufoo-theme/select-arrow.png) 95% center no-repeat;
   background-size: 10px;
 }
 
