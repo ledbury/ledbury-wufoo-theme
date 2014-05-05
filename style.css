@@ -59,12 +59,12 @@ label.desc, legend.desc {
 
 .info h2 {
   font-weight: normal;
-  text-transform: uppercase;
+  font-size: 200%;
 }
 
 form li.section h3 {
   font-weight: normal;
-  text-transform: uppercase;
+  font-size: 184%;
 }
 
 form li.section div {
