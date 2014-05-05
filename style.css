@@ -54,7 +54,6 @@ input.text, input.search, textarea.textarea {
 
 label.desc, legend.desc {
   font-weight: normal;
-  text-transform: uppercase;
 }
 
 .info h2 {
